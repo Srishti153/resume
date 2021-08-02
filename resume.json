@@ -1,0 +1,68 @@
+{
+	"basics": {
+		"name": "Srishti Kamra",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1100@iiitkota.ac.in",
+		"phone": "8824625153",
+		"location": {
+			"postalCode": "335001",
+			"city": "Sri Ganganagar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@SrishtiKamra_58",
+				"url": "https://twitter.com/SrishtiKamra_58"
+			},
+			{
+				"network": "Github",
+				"username": "Srishti153",
+				"url": "https://github.com/Srishti153"
+			},
+			{
+				"network": "linkedin",
+				"username": "Srishti Kamra",
+				"url": "https://www.linkedin.com/in/srishti-kamra-70b952190/"
+			},
+			{
+				"network": "Instagram",
+				"username": "srishtyyyyyy",
+				"url": "https://instagram.com/srishtyyyyyy"
+			}
+		]
+	},
+	"volunteer": [{
+		"organization": "Quills 'n' Stills (College Magazine)",
+		"position": "Creative Lead and Art Editor",
+		"website": "https://sites.google.com/view/qnsiiitkota/home",
+		"summary": "Institute Magazine",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology (BTech)",
+		"startDate": "01-08-2019 //Date",
+		"endDate": "Present",
+		"gpa": "8.46",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [
+               {
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python"]
+	       },
+               {
+                "level": "Intermediate",
+		"keywords": ["React", "MySQL", "Git", "Java"]
+         }],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton"]
+	}],
+	"references": []
+}
